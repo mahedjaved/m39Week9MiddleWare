@@ -1,19 +1,9 @@
-# m39Week9RESTApi
+# m39Week9MIDDLEWARE
 
-This repo contains the code for the Lecture 02 of Week 9 Day1
+This repo contains the code for the Lecture 02 of Week 9 Day2
 
-Basically going through the basics of REST API
+Basically going through the basics of bCrypt
 
 # Installation Required
 
-npm i mongoose dotenv express
-
-# Directory Setup Command
-
-mkdir src src/db src/user
-
-touch .env src/server.js src/db/connection.js
-
-touch src/user/model.js src/user/controllers.js src/user/routes.js
-# m39Week9MiddleWare
-# m39Week9MiddleWare
+npm i bcryptjs
