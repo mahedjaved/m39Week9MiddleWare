@@ -20,5 +20,5 @@ app.use(userRouter);
 // ================================================================ //
 // make the server listen to a port
 app.listen(5001, () => {
-    console.log("[Info] Listeninng on port 5001");
+	console.log("[Info] Listeninng on port 5001");
 });
